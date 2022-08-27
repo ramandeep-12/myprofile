@@ -1,0 +1,45 @@
+ .sign-in-content{
+     border-style:solid;
+     /* align-items: center; */
+     height:310px;
+     width:612px;
+
+
+     /* margin:50px 20px 30px 100px */
+ }
+ .sign-in{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .container{
+     position: absolute;
+     top:30%;
+     left:30%
+ }
+ img{
+     width:80mm;
+     height: 70mm;
+     padding-right:25px
+ }
+.form-title{
+    margin-top:23px;
+    margin-bottom: 25px;
+}
+.form-group{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#register-form{
+    background-color: white;
+}
+.signup-image-link{
+    margin-left:15px;
+    
+}
+#login.form-submit{
+    margin-top:5px;
+    border-radius:5px 5px 5px 5px;
+    background-color: rgb(0, 174, 255);
+}
+
